@@ -10,6 +10,7 @@ Languages;
 - `Lua`
 - `Luau`
 - `CSS`
+- `HTML`
 - `Python`?
 
 > [!NOTE]
