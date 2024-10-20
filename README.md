@@ -3,7 +3,7 @@
 Heya Guys! Im Dynasty! (or i like to call myself that)
 
 Coder and Minimalist UI Designer
-> I can also build too!
+> I can build too!
 
 Languages;
 - `Javascript`
@@ -20,7 +20,7 @@ Languages;
 im not accepting too many commissions my hands are quite full right now
 
 ### Socials
-Discord / ultra_god_dynasty
+Discord / ``ultra_god_dynasty``
 
-Twitter / x.com/CrynixDynasty
+Twitter / ``x.com/CrynixDynasty``
 
