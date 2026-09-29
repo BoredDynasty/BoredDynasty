@@ -4,7 +4,7 @@
 	  BoredDynasty
   </h1>
   <h4 align="center">
-	  Programmer of 4 years and Minimalist UI Designer
+	  Programmer with 5 years of experience and UI Designer
   </h3>
   <div></div>
   <h4 align="center">Major Languages</h4>
@@ -21,14 +21,13 @@
 
   <div></div>
   <h5 align="center">
-	  Take a <bold>sneak peek</bold> at my contributed repositories.
+	  Take a look at my contributed repositories.
   </h5>
   <div></div>
   <h5 align="center">
-	  There, you can find some of the RBLX. Experiences I'm working on.
+	  There, you can find some of the Roblox Experiences I'm working on.
   </h5>
   <h5 align="center">
-	  Did I mention I build games on Roblox? 
-	  <img align="center" src="https://github.com/user-attachments/assets/b8fe6b8b-a458-4aff-a677-b46259ebbde6">
+  	<img width="468.5" height="295.5" alt="roblox-card-Dynablox1005" src="https://github.com/user-attachments/assets/5543b0c0-15c0-4f15-b6a4-e7c51cce84fb" /> 
   </h5>
 </p>
